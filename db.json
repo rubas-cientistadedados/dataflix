@@ -1,0 +1,75 @@
+{
+  "categorias": [
+    {
+      "id": 1,
+      "titulo": "Recommendations",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "Data Science",
+        "url": "https://www.alura.com.br/cursos-online-front-end"
+      }
+    },
+    {
+      "id": 2,
+      "titulo": "Statistics and Probability",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Improve your analysis skills",
+        "url": "https://www.alura.com.br/cursos-online-programacao"
+      }
+    },
+    {
+      "id": 3,
+      "titulo": "Extract Transform Load (ETL)",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "Learn to work with raw data",
+        "url": ""
+      }
+    },
+    {
+      "id": 4,
+      "titulo": "Exploratory Data Analysis (EDA)",
+      "cor": "orange",
+      "link_extra": {
+        "text": "Learn how to analyze raw data",
+        "url": ""
+      }
+    },
+    {
+      "id": 5,
+      "titulo": "Feature Engineering",
+      "cor": "amber",
+      "link_extra": {
+        "text": "Convert and create new features",
+        "url": ""
+      }
+    },
+    {
+      "id": 6,
+      "titulo": "Machine Learning",
+      "cor": "red",
+      "link_extra": {
+        "text": "Learn the main models of machine learning",
+        "url": ""
+      }
+    },
+    {
+      "id": 7,
+      "titulo": "Professional Mentoring",
+      "cor": "orange",
+      "link_extra": {
+        "text": "Realize your career",
+        "url": ""
+      }
+    }
+  ],
+  "videos": [
+    {
+      "id": 1,
+      "categoriaId": 1,
+      "titulo": "O que é Data Science?",
+      "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU"
+    }
+  ]
+}
