@@ -30,7 +30,7 @@
     {
       "id": 4,
       "titulo": "Exploratory Data Analysis (EDA)",
-      "cor": "orange",
+      "cor": "#FFA500",
       "link_extra": {
         "text": "Learn how to analyze raw data",
         "url": ""
@@ -39,7 +39,7 @@
     {
       "id": 5,
       "titulo": "Feature Engineering",
-      "cor": "amber",
+      "cor": "#00008B",
       "link_extra": {
         "text": "Convert and create new features",
         "url": ""
@@ -48,7 +48,7 @@
     {
       "id": 6,
       "titulo": "Machine Learning",
-      "cor": "red",
+      "cor": "#FF0000",
       "link_extra": {
         "text": "Learn the main models of machine learning",
         "url": ""
@@ -57,7 +57,7 @@
     {
       "id": 7,
       "titulo": "Professional Mentoring",
-      "cor": "orange",
+      "cor": "#008000",
       "link_extra": {
         "text": "Realize your career",
         "url": ""
