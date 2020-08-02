@@ -6,7 +6,7 @@
 
 ## ⠀⠀⠀⠀ ⠀⠀⠀⠀
 
-## O projeto  **DATAFLIX** foi desenvolvido na [Imersão React Alura](https://www.alura.com.br/imersao-react/), baseando-se na inerface da NetFli.
+## O projeto  **DATAFLIX** foi desenvolvido na [Imersão React Alura](https://www.alura.com.br/imersao-react/), baseando-se na inerface da NetFlix.
 
 #### O DATAFLIX é um ambiente com traços de interface da NetFlix, com o tema voltado ao estudo e propagação de materiais em Data Science. Apresenta um leque de tópicos com conteúdos fundamentais e avançados para o aprendizado de um Cientista de Dados.
 
