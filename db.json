@@ -70,6 +70,282 @@
       "categoriaId": 1,
       "titulo": "O que é Data Science?",
       "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU"
+    }, 
+    {
+      "id": 43,
+      "categoriaId": 1,
+      "titulo": "Introdução a Estatística para Data Science (Aula ao vivo Gratuita)",
+      "url": "https://www.youtube.com/watch?v=k32FcFV_6JY"
+    },
+    {
+      "id": 44,
+      "categoriaId": 1,
+      "titulo": " Data Science Actions in Magic ETL",
+      "url": "https://www.youtube.com/watch?v=KullowvBhrc"
+    },
+    {
+      "id": 45,
+      "categoriaId": 1,
+      "titulo": "Perform Exploratory Data Analysis In Minutes- Data Science| Machine Learning",
+      "url": "https://www.youtube.com/watch?v=AYalukmWroY"
+    },
+    {
+      "id": 46,
+      "categoriaId": 1,
+      "titulo": "Python for Data Science - Feature Engineering: Performance Basics",
+      "url": "https://www.youtube.com/watch?v=pm8rsXMc0aw"
+    },
+    {
+      "id": 47,
+      "categoriaId": 1,
+      "titulo": "Machine Learning with Python ",
+      "url": "https://www.youtube.com/watch?v=OGxgnH8y2NM&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v"
+    },
+    {
+      "id": 40,
+      "categoriaId": 7,
+      "titulo": "Data Science Certificate vs Bootcamp vs Masters Degree",
+      "url": "https://www.youtube.com/watch?v=Q9FjwzKFPuM"
+    },
+    {
+      "id": 2,
+      "categoriaId": 2,
+      "titulo": "Cap11 - Introdução à Estatística Para Data Science",
+      "url": "https://www.youtube.com/watch?v=ZsOn26l7ebA&list=PLjNmttLBDt4snRgWhenoAmVaB9VafBz9i"
+    },
+    {
+      "id": 3,
+      "categoriaId": 2,
+      "titulo": "Introdução a Estatística para Data Science (Aula ao vivo Gratuita)",
+      "url": "https://www.youtube.com/watch?v=k32FcFV_6JY"
+    },
+    {
+      "id": 4,
+      "categoriaId": 2,
+      "titulo": "DIA 11 - DESAFIO DATA SCIENCE EM 100 DIAS: ESTATÍSTICA EM CIÊNCIA DE DADOS (PARTE 1)",
+      "url": "https://www.youtube.com/watch?v=I0CpHvAVInE"
+    },
+    {
+      "id": 5,
+      "categoriaId": 2,
+      "titulo": "Estatística: O motor do Data Science - BIG DATA Experience 2019 - Thiago Marques",
+      "url": "https://www.youtube.com/watch?v=lW6miLgkYN4"
+    },
+    {
+      "id": 6,
+      "categoriaId": 2,
+      "titulo": " ENTREVISTEI um ESTATÍSTICO que se tornou um DATA SCIENTIST!",
+      "url": "https://www.youtube.com/watch?v=JlOeolmjVdA"
+    },
+    {
+      "id": 7,
+      "categoriaId": 3,
+      "titulo": "3 - ETL Tutorial | Extract Transform and Load",
+      "url": "https://www.youtube.com/watch?v=WZw0OTgCBOY"
+    },
+    {
+      "id": 8,
+      "categoriaId": 3,
+      "titulo": " Data Science Actions in Magic ETL",
+      "url": "https://www.youtube.com/watch?v=KullowvBhrc"
+    },
+    {
+      "id": 9,
+      "categoriaId": 3,
+      "titulo": "What Is A Data Pipeline Explained",
+      "url": "https://www.youtube.com/watch?v=8-Hp31WHtI8"
+    },
+    {
+      "id": 10,
+      "categoriaId": 3,
+      "titulo": "ETL: The Dirty Little Secret of Data Science",
+      "url": "https://www.youtube.com/watch?v=mEsQd60gyUo"
+    },{
+      "id": 11,
+      "categoriaId": 3,
+      "titulo": "What is ETL | Extract, Transform and Load | Hadoop Tutorial for Beginners | Hadoop [Part 2]",
+      "url": "https://www.youtube.com/watch?v=r4Hrp1fFpMs&list=PLaz4b_E0r8NqeO_YnxpP0PxvgmPRzy0ZT"
+    },
+    {
+      "id": 12,
+      "categoriaId": 3,
+      "titulo": "ETL With Python",
+      "url": "https://www.youtube.com/watch?v=7O9bosBS8WM&list=PLWlz-VdzfiWT9gsOAXsbey47vDrQiQ8mq"
+    },
+    {
+      "id": 13,
+      "categoriaId": 3,
+      "titulo": "ETL Basics",
+      "url": "https://www.youtube.com/watch?v=mEsQd60gyUo&list=PLktP3ekLAeXmKizA9zixWnyemHxOk9sOd"
+    },
+    {
+      "id": 14,
+      "categoriaId": 3,
+      "titulo": "ETTL: Extract - Tiered Transform - Load | Datadog",
+      "url": "https://www.youtube.com/watch?v=d3JhgiQceag"
+    },
+    {
+      "id": 15,
+      "categoriaId": 4,
+      "titulo": "Exploratory Data Analysis",
+      "url": "https://www.youtube.com/watch?v=zHcQPKP6NpM"
+    },
+    {
+      "id": 16,
+      "categoriaId": 4,
+      "titulo": "Perform Exploratory Data Analysis In Minutes- Data Science| Machine Learning",
+      "url": "https://www.youtube.com/watch?v=AYalukmWroY"
+    },
+    {
+      "id": 17,
+      "categoriaId": 4,
+      "titulo": "Exploratory Data Analysis with Pandas and Python 3.x tutorial ",
+      "url": "https://www.youtube.com/watch?v=fVMaCdCGsUk&list=PLTgRMOcmRb3PyvW8iLKtgiAEF2HWH0NAf"
+    },
+    {
+      "id": 18,
+      "categoriaId": 4,
+      "titulo": "StatQuest: Principal Component Analysis (PCA), Step-by-Step",
+      "url": "https://www.youtube.com/watch?v=FgakZw6K1QQ"
+    },
+    {
+      "id": 19,
+      "categoriaId": 4,
+      "titulo": "Pandas Profiling for Data Science (Quick and Easy Exploratory Data analysis ",
+      "url": "https://www.youtube.com/watch?v=Ef169VELt5o"
+    },
+    {
+      "id": 20,
+      "categoriaId": 4,
+      "titulo": "Data Science - Part III - EDA & Model Selection",
+      "url": "https://www.youtube.com/watch?v=St-xm35a_nk"
+    },
+    {
+      "id": 21,
+      "categoriaId": 4,
+      "titulo": "Exploratory Data Analysis (EDA) | Python | Learnbay",
+      "url": "https://www.youtube.com/watch?v=ni5BO0mO1x8"
+    },
+    {
+      "id": 22,
+      "categoriaId": 5,
+      "titulo": "How do I select features for Machine Learning?",
+      "url": "https://www.youtube.com/watch?v=YaKMeAlHgqQ"
+    },
+    {
+      "id": 23,
+      "categoriaId": 5,
+      "titulo": "Introduction to Feature Engineering in Data Science",
+      "url": "https://www.youtube.com/watch?v=ikKfP7KbZW4"
+    },
+    {
+      "id": 24,
+      "categoriaId": 5,
+      "titulo": "Feature Engineering-DATA SCIENCE MENTOR PROGRAM-Feature Engineering",
+      "url": "https://www.youtube.com/watch?v=AHf5S3JnC-k"
+    },
+    {
+      "id": 25,
+      "categoriaId": 5,
+      "titulo": "Julie Michelman - Pandas, Pipelines, and Custom Transformers",
+      "url": "https://www.youtube.com/watch?v=BFaadIqWlAg"
+    },
+    {
+      "id": 26,
+      "categoriaId": 5,
+      "titulo": "Advanced feature engineering ",
+      "url": "https://www.youtube.com/watch?v=5CWwwtEM2TA&list=PLFLLfMVx4_tFCvlpf4zYCgrhynfTKY0bq"
+    },
+    {
+      "id": 27,
+      "categoriaId": 5,
+      "titulo": "Python for Data Science - Feature Engineering: Performance Basics",
+      "url": "https://www.youtube.com/watch?v=pm8rsXMc0aw"
+    },
+    {
+      "id": 28,
+      "categoriaId": 5,
+      "titulo": "Advanced Feature Engineering Tips and Tricks - T. Scott Clendaniel",
+      "url": "https://www.youtube.com/watch?v=vsKNxbP8R_8"
+    },
+    {
+      "id": 29,
+      "categoriaId": 6,
+      "titulo": "Machine Learning with Python ",
+      "url": "https://www.youtube.com/watch?v=OGxgnH8y2NM&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v"
+    },
+    {
+      "id": 30,
+      "categoriaId": 6,
+      "titulo": "Learn Data Science Tutorial - Full Course for Beginners",
+      "url": "https://www.youtube.com/watch?v=ua-CiDNNj30"
+    },
+    {
+      "id": 31,
+      "categoriaId": 6,
+      "titulo": "Curso Machine Learning e Data Science com Python de A à Z: Completo",
+      "url": "https://www.youtube.com/watch?v=HvP-mVQWFm0"
+    },
+    {
+      "id": 32,
+      "categoriaId": 6,
+      "titulo": "Data Science Vs. Machine Learning Vs. Artificial Intelligence | Ep #26",
+      "url": "https://www.youtube.com/watch?v=q7ICJLYF-Js"
+    },
+    {
+      "id": 34,
+      "categoriaId": 6,
+      "titulo": "Myths and Realities of Data and Machine Learning in Marketing",
+      "url": "https://www.youtube.com/watch?v=kVxNRigNlZg"
+    },
+    {
+      "id": 35,
+      "categoriaId": 6,
+      "titulo": "Data Science & Machine Learning with Python tutorial by Mrs. Sasmitha ",
+      "url": "https://www.youtube.com/watch?v=rhQIB29vGf0&list=PLd3UqWTnYXOkHql32YY6r51UWkLA23l3W"
+    },
+    {
+      "id": 36,
+      "categoriaId": 7,
+      "titulo": "O que é Data Science? #HipstersPontoTube",
+      "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU"
+    },
+    {
+      "id": 37,
+      "categoriaId": 7,
+      "titulo": "Data Scientists vs Data Engineers: Which one is for you?",
+      "url": "https://www.youtube.com/watch?v=vmYaAzbv9xk"
+    },
+    {
+      "id": 38,
+      "categoriaId": 7,
+      "titulo": "The NBA Data Scientist",
+      "url": "https://www.youtube.com/watch?v=MpLHMKTolVw"
+    },
+    {
+      "id": 39,
+      "categoriaId": 7,
+      "titulo": "Best Online Data Science Courses",
+      "url": "https://www.youtube.com/watch?v=MGnXMu9GFig"
+    },
+    {
+      "id": 40,
+      "categoriaId": 7,
+      "titulo": "Data Science Certificate vs Bootcamp vs Masters Degree",
+      "url": "https://www.youtube.com/watch?v=Q9FjwzKFPuM"
+    },
+    {
+      "id": 41,
+      "categoriaId": 7,
+      "titulo": "Data Science Career Certifications",
+      "url": "https://www.youtube.com/watch?v=UBbdWHCnn1o"
+    },
+    {
+      "id": 42,
+      "categoriaId": 7,
+      "titulo": "The Data Science Accelerator: Mentoring",
+      "url": "https://www.youtube.com/watch?v=iWkhoIOo9yY"
     }
+    
   ]
 }
